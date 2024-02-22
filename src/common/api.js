@@ -1,0 +1,9 @@
+export const submitLink = '/api/link/submit';
+export const getSubmitList = '/api/link/getSubmitList';
+export const guidanceAllList = '/api/guidance/list';
+export const guidancePrivacyList = '/api/guidance/privacyList';
+export const guidanceTypeList = '/api/guidanceType/all';
+export const login = '/api/login';
+export const collectionAction = '/api/collection/action';
+export const queryMyCollection = '/api/collection/queryMyCollection';
+export const report = '/api/bs/report';
