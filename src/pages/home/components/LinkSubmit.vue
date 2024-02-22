@@ -58,8 +58,8 @@ const INITIAL_DATA = {
   title: '',
   url: '',
   icon: '',
-  privacy: '0',
-  type: 1
+  privacy: 0,
+  type: ''
 }
 export default {
   name: "LinkSubmit",
