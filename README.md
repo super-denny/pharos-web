@@ -33,8 +33,8 @@
 ##### JSON格式化
 ![](https://cdn.jsdelivr.net/gh/super-denny/images/Xnip2024-02-22_21-47-52.png)
 
-<h3><a herf="https://github.com/super-denny/pharos-admin"><p style="color:red;">点此进入“管理后台”项目</p></a></h3>
-<h3><a herf="https://github.com/super-denny/pharos"><p style="color:red;">点此进入“接口服务”项目</p></a></h3>
+<h3><p style="color:red;">“管理后台”项目:https://github.com/super-denny/pharos-admin</p></h3>
+<h3><p style="color:red;">“接口服务”项目:https://github.com/super-denny/pharos</p></h3>
 
 #### 4. 开发
 
