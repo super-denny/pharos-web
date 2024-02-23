@@ -51,8 +51,8 @@ npm run dev
 ```bash
 ## 构建正式环境
 npm run build
+```
 
-
-### 开源协议
+### 6. 开源协议
 
 Pharos 遵循 [MIT 协议](https://github.com/super-denny/pharos-web/LICENSE)
