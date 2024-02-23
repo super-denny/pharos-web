@@ -55,4 +55,4 @@ npm run build
 
 #### 6. 开源协议
 
-Pharos 遵循 [MIT 协议](https://github.com/super-denny/pharos-web/LICENSE)
+Pharos 遵循 [MIT 协议](https://github.com/super-denny/pharos-web/blob/master/LICENSE)
