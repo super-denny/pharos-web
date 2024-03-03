@@ -42,6 +42,9 @@
 ## 安装依赖
 npm install
 
+## 替换上传图标接口
+将项目中t-upload标签的action地址改为对应的上传地址
+
 ## 启动项目
 npm run dev
 ```

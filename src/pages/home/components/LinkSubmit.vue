@@ -18,7 +18,7 @@
           </t-form-item>
           <t-form-item label="图标" name="icon">
             <t-upload
-                action="https://jlgateway-in.daily.webuy.ai/message/oss/imgUpload"
+                action="上传地址"
                 theme="image"
                 tips="请选择单张图片文件上传"
                 accept="image/*"
